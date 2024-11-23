@@ -1,4 +1,4 @@
-# [MediGuide](https://moodify-knxj.onrender.com/)
+# [Moodify](https://moodify-knxj.onrender.com/)
 
 ## Description
 Moodify is a web application designed to help users manage their mental health and well-being. It provides tools for detecting stress levels and fostering resilience through personalized recommendations and motivational content. The application utilizes machine learning algorithms to analyze user input and provide insights into their emotional state.
